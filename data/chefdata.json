@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "chefPicture": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/newscms/2019_33/2975356/190816-katalinadiaz-ac-1046p.jpg",
+    "chefName": "Maria Hernandez",
+    "yearsOfExperience": 15,
+    "numberOfRecipes": 100,
+    "likes": 2000
+  },
+  {
+    "id": 2,
+    "chefPicture": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1518533924-min.jpg",
+    "chefName": "Carlos Gonzalez",
+    "yearsOfExperience": 12,
+    "numberOfRecipes": 80,
+    "likes": 1500
+  },
+  {
+    "id": 3,
+    "chefPicture": "https://thumbs.dreamstime.com/b/female-chef-19271464.jpg",
+    "chefName": "Isabel Rodriguez",
+    "yearsOfExperience": 8,
+    "numberOfRecipes": 50,
+    "likes": 1000
+  },
+  {
+    "id": 4,
+    "chefPicture": "https://pbs.twimg.com/profile_images/1324080882412621824/x3jZmqQ9_400x400.jpg",
+    "chefName": "Jorge Perez",
+    "yearsOfExperience": 10,
+    "numberOfRecipes": 75,
+    "likes": 500
+  },
+  {
+    "id": 5,
+    "chefPicture": "https://ice.edu/sites/default/files/inline-images/migrated/2015/05/Chefs_Sporer.jpg",
+    "chefName": "Ana Lopez",
+    "yearsOfExperience": 20,
+    "numberOfRecipes": 120,
+    "likes": 3000
+  },
+  {
+    "id": 6,
+    "chefPicture": "https://www.revistagranhotel.com/wp-content/uploads/2023/02/Chef-Jose-Carlos-foto-1024x1024.jpg",
+    "chefName": "Jose Garcia",
+    "yearsOfExperience": 5,
+    "numberOfRecipes": 30,
+    "likes": 200
+  }
+]
