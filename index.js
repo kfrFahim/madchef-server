@@ -13,7 +13,9 @@ app.get("/" , (req ,  res) =>{
      res.send("My server is running baby")
 } )
 
-
+app.get("/chefdata" , (req , res) => {
+     res.send(chefdata)
+})
 
 
 
