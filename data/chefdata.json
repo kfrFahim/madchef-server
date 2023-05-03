@@ -6,11 +6,24 @@
     "yearsOfExperience": 15,
     "numberOfRecipes": 100,
     "likes": 2000,
-    
-      "name": "Enchiladas Suizas",
-      "description": "Tortillas filled with shredded chicken, topped with a creamy tomatillo sauce and melted cheese.",
-      "ingredients": "corn tortillas (12), shredded cooked chicken (2 cups), chopped onion (1 cup), shredded cheese (1 cup), sour cream (1/2 cup), milk (1/2 cup), chopped cilantro (1/2 cup), green enchilada sauce (1 can (10 oz.)), olive oil (1 tbsp.), salt (to taste), pepper (to taste)",
-      "instructions": "1. Preheat oven to 350°F (175°C).\n2. Heat olive oil in a skillet over medium heat. Add onion and sauté until softened, about 5 minutes.\n3. Add shredded chicken, salt, and pepper to taste. Cook for 5 minutes, or until heated through.\n4. In a medium bowl, mix together sour cream, milk, and green enchilada sauce.\n5. Dip each tortilla in the sauce to coat both sides. Spoon chicken mixture onto the center of each tortilla and roll up tightly. Place seam-side down in a greased baking dish.\n6. Pour remaining sauce over enchiladas and sprinkle with shredded cheese.\n7. Bake for 20-25 minutes, or until cheese is melted and bubbly. Garnish with chopped cilantro before serving."
+
+    "recipeimg1" : "https://images.unsplash.com/photo-1582234372722-50d7ccc30ebd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fG1leGljYW4lMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "name1": "Enchiladas Suizas",
+      "description1": "Tortillas filled with shredded chicken, topped with a creamy tomatillo sauce and melted cheese.",
+      "ingredients1": "corn tortillas (12), shredded cooked chicken (2 cups), chopped onion (1 cup), shredded cheese (1 cup), sour cream (1/2 cup), milk (1/2 cup), chopped cilantro (1/2 cup), green enchilada sauce (1 can (10 oz.)), olive oil (1 tbsp.), salt (to taste), pepper (to taste)",
+      "instructions1": "1. Preheat oven to 350°F (175°C).\n2. Heat olive oil in a skillet over medium heat. Add onion and sauté until softened, about 5 minutes.\n3. Add shredded chicken, salt, and pepper to taste. Cook for 5 minutes, or until heated through.\n4. In a medium bowl, mix together sour cream, milk, and green enchilada sauce.\n5. Dip each tortilla in the sauce to coat both sides. Spoon chicken mixture onto the center of each tortilla and roll up tightly. Place seam-side down in a greased baking dish.\n6. Pour remaining sauce over enchiladas and sprinkle with shredded cheese.\n7. Bake for 20-25 minutes, or until cheese is melted and bubbly. Garnish with chopped cilantro before serving.",
+
+      "recipeimg2" : "https://images.unsplash.com/photo-1582234372722-50d7ccc30ebd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fG1leGljYW4lMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "name2": "Enchiladas Verdes",
+      "description2": "Corn tortillas filled with shredded chicken, covered in a green chili sauce, and topped with cheese and crema.",
+      "ingredients2": "corn tortillas (12), cooked shredded chicken (2 cups), onion (1, chopped), garlic (2 cloves, minced), green chilies (4 oz. can, chopped), chicken broth (1 cup), sour cream (1/2 cup), cilantro (1/2 cup, chopped), Monterey Jack cheese (1 cup, shredded), vegetable oil (for frying)",
+      "instructions2": "1. Preheat oven to 350°F (175°C).\n2. In a large skillet, heat vegetable oil over medium-high heat. Fry corn tortillas one at a time for about 10 seconds on each side, until slightly crisp. Drain on paper towels.\n3. In the same skillet, sauté onion and garlic until soft.\n4. Add green chilies and chicken broth to the skillet. Simmer for 10 minutes, then stir in sour cream and cilantro.\n5. Spread a spoonful of the green chili sauce on each corn tortilla, then add a spoonful of shredded chicken.\n6. Roll up the tortillas and place seam-side down in a baking dish.\n7. Pour remaining green chili sauce over the enchiladas and sprinkle with shredded Monterey Jack cheese.\n8. Bake for 20-25 minutes, or until cheese is melted and bubbly.",
+      
+      "recipeimg3" : "https://plus.unsplash.com/premium_photo-1681406994499-737a170e9c43?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fG1leGljYW4lMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "name3": "Carne Asada",
+      "description3": "Thinly sliced grilled steak, often served with tortillas and guacamole.",
+      "ingredients3": "flank steak (2 lbs.), lime juice (1/4 cup), orange juice (1/4 cup), garlic (4 cloves, minced), cumin (1 tbsp.), chili powder (1 tbsp.), salt (to taste), pepper (to taste), vegetable oil (2 tbsp.)",
+      "instructions3": "1. In a large bowl, whisk together lime juice, orange juice, garlic, cumin, chili powder, salt, pepper, and vegetable oil.\n2. Add flank steak to the bowl and coat evenly with the marinade. Cover and refrigerate for at least 1 hour, or up to 24 hours.\n3. Preheat grill to high heat. Remove steak from marinade and discard excess liquid.\n4. Grill steak for 6-8 minutes per side, or until desired doneness is reached.\n5. Let steak rest for 5-10 minutes before slicing thinly against the grain."
     
     
   },
@@ -22,10 +35,25 @@
     "numberOfRecipes": 80,
     "likes": 1500,
 
-      "name": "Tacos al Pastor",
-      "description": "Thinly sliced pork marinated in a blend of spices, cooked on a vertical spit, and served in soft corn tortillas with pineapple and onion.",
-      "ingredients": "pork shoulder (1 lb.), fresh pineapple (1 cup, diced), onion (1/2 cup, diced), garlic (2 cloves, minced), chili powder (1 tbsp.), cumin (1 tbsp.), paprika (1 tbsp.), oregano (1 tbsp.), salt (to taste), pepper (to taste), corn tortillas (8-10)",
-      "instructions": "1. In a large bowl, mix together pineapple, onion, garlic, chili powder, cumin, paprika, oregano, salt, and pepper.\n2. Add pork shoulder to the bowl and mix until well-coated. Cover and marinate in the refrigerator for at least 1 hour.\n3. Preheat oven to 350°F (175°C). Transfer pork mixture to a baking dish and roast for 1 hour, or until cooked through.\n4. Let pork cool slightly, then slice thinly.\n5. Heat tortillas on a griddle or in the microwave.\n6. Serve pork slices on warm tortillas, topped with additional diced pineapple and onion if desired."
+    "recipeimg1" : "https://images.unsplash.com/photo-1582169296194-e4d644c48063?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWV4aWNhbiUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "name1": "Tacos al Pastor",
+      "description1": "Thinly sliced pork marinated in a blend of spices, cooked on a vertical spit, and served in soft corn tortillas with pineapple and onion.",
+      "ingredients1": "pork shoulder (1 lb.), fresh pineapple (1 cup, diced), onion (1/2 cup, diced), garlic (2 cloves, minced), chili powder (1 tbsp.), cumin (1 tbsp.), paprika (1 tbsp.), oregano (1 tbsp.), salt (to taste), pepper (to taste), corn tortillas (8-10)",
+      "instructions1": "1. In a large bowl, mix together pineapple, onion, garlic, chili powder, cumin, paprika, oregano, salt, and pepper.\n2. Add pork shoulder to the bowl and mix until well-coated. Cover and marinate in the refrigerator for at least 1 hour.\n3. Preheat oven to 350°F (175°C). Transfer pork mixture to a baking dish and roast for 1 hour, or until cooked through.\n4. Let pork cool slightly, then slice thinly.\n5. Heat tortillas on a griddle or in the microwave.\n6. Serve pork slices on warm tortillas, topped with additional diced pineapple and onion if desired.",
+
+      "recipeimg2" : "https://images.unsplash.com/photo-1582234372722-50d7ccc30ebd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fG1leGljYW4lMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "name2": "Enchiladas Verdes",
+      "description2": "Corn tortillas filled with shredded chicken, covered in a green chili sauce, and topped with cheese and crema.",
+      "ingredients2": "corn tortillas (12), cooked shredded chicken (2 cups), onion (1, chopped), garlic (2 cloves, minced), green chilies (4 oz. can, chopped), chicken broth (1 cup), sour cream (1/2 cup), cilantro (1/2 cup, chopped), Monterey Jack cheese (1 cup, shredded), vegetable oil (for frying)",
+      "instructions2": "1. Preheat oven to 350°F (175°C).\n2. In a large skillet, heat vegetable oil over medium-high heat. Fry corn tortillas one at a time for about 10 seconds on each side, until slightly crisp. Drain on paper towels.\n3. In the same skillet, sauté onion and garlic until soft.\n4. Add green chilies and chicken broth to the skillet. Simmer for 10 minutes, then stir in sour cream and cilantro.\n5. Spread a spoonful of the green chili sauce on each corn tortilla, then add a spoonful of shredded chicken.\n6. Roll up the tortillas and place seam-side down in a baking dish.\n7. Pour remaining green chili sauce over the enchiladas and sprinkle with shredded Monterey Jack cheese.\n8. Bake for 20-25 minutes, or until cheese is melted and bubbly.",
+
+      "recipeimg3" : "https://plus.unsplash.com/premium_photo-1681406994499-737a170e9c43?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fG1leGljYW4lMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "name3": "Carne Asada",
+      "description3": "Thinly sliced grilled steak, often served with tortillas and guacamole.",
+      "ingredients3": "flank steak (2 lbs.), lime juice (1/4 cup), orange juice (1/4 cup), garlic (4 cloves, minced), cumin (1 tbsp.), chili powder (1 tbsp.), salt (to taste), pepper (to taste), vegetable oil (2 tbsp.)",
+      "instructions3": "1. In a large bowl, whisk together lime juice, orange juice, garlic, cumin, chili powder, salt, pepper, and vegetable oil.\n2. Add flank steak to the bowl and coat evenly with the marinade. Cover and refrigerate for at least 1 hour, or up to 24 hours.\n3. Preheat grill to high heat. Remove steak from marinade and discard excess liquid.\n4. Grill steak for 6-8 minutes per side, or until desired doneness is reached.\n5. Let steak rest for 5-10 minutes before slicing thinly against the grain."
+
+
     
     
   },
@@ -37,10 +65,23 @@
     "numberOfRecipes": 50,
     "likes": 1000,
     
-      "name": "Pozole",
-      "description": "A traditional Mexican soup made with hominy, pork, and a variety of toppings.",
-      "ingredients": "dried hominy (2 cups), pork shoulder (2 lbs.), onion (1, chopped), garlic (4 cloves, minced), cumin (1 tbsp.), chili powder (1 tbsp.), bay leaves (2), salt (to taste), pepper (to taste), cabbage (2 cups, shredded), radishes (1 cup, sliced), cilantro (1/2 cup, chopped), lime wedges (for serving)",
-      "instructions": "1. Rinse hominy and soak overnight in a large pot of water.\n2. Drain hominy and return to pot with pork shoulder, onion, garlic, cumin, chili powder, bay leaves, salt, and pepper.\n3. Add enough water to cover the ingredients by 2-3 inches. Bring to a boil, then reduce heat and simmer for 2-3 hours, or until pork is tender and hominy is fully cooked.\n4. Remove pork from pot and shred into bite-sized pieces.\n5. To serve, ladle soup into bowls and top with shredded pork, cabbage, radishes, cilantro, and a squeeze of lime juice."
+    "recipeimg1" : "https://images.unsplash.com/photo-1582169296194-e4d644c48063?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWV4aWNhbiUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "name1": "Pozole",
+      "description1": "A traditional Mexican soup made with hominy, pork, and a variety of toppings.",
+      "ingredients1": "dried hominy (2 cups), pork shoulder (2 lbs.), onion (1, chopped), garlic (4 cloves, minced), cumin (1 tbsp.), chili powder (1 tbsp.), bay leaves (2), salt (to taste), pepper (to taste), cabbage (2 cups, shredded), radishes (1 cup, sliced), cilantro (1/2 cup, chopped), lime wedges (for serving)",
+      "instructions1": "1. Rinse hominy and soak overnight in a large pot of water.\n2. Drain hominy and return to pot with pork shoulder, onion, garlic, cumin, chili powder, bay leaves, salt, and pepper.\n3. Add enough water to cover the ingredients by 2-3 inches. Bring to a boil, then reduce heat and simmer for 2-3 hours, or until pork is tender and hominy is fully cooked.\n4. Remove pork from pot and shred into bite-sized pieces.\n5. To serve, ladle soup into bowls and top with shredded pork, cabbage, radishes, cilantro, and a squeeze of lime juice.",
+
+      "recipeimg2" : "https://images.unsplash.com/photo-1582234372722-50d7ccc30ebd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fG1leGljYW4lMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "name2": "Enchiladas Verdes",
+      "description2": "Corn tortillas filled with shredded chicken, covered in a green chili sauce, and topped with cheese and crema.",
+      "ingredients2": "corn tortillas (12), cooked shredded chicken (2 cups), onion (1, chopped), garlic (2 cloves, minced), green chilies (4 oz. can, chopped), chicken broth (1 cup), sour cream (1/2 cup), cilantro (1/2 cup, chopped), Monterey Jack cheese (1 cup, shredded), vegetable oil (for frying)",
+      "instructions2": "1. Preheat oven to 350°F (175°C).\n2. In a large skillet, heat vegetable oil over medium-high heat. Fry corn tortillas one at a time for about 10 seconds on each side, until slightly crisp. Drain on paper towels.\n3. In the same skillet, sauté onion and garlic until soft.\n4. Add green chilies and chicken broth to the skillet. Simmer for 10 minutes, then stir in sour cream and cilantro.\n5. Spread a spoonful of the green chili sauce on each corn tortilla, then add a spoonful of shredded chicken.\n6. Roll up the tortillas and place seam-side down in a baking dish.\n7. Pour remaining green chili sauce over the enchiladas and sprinkle with shredded Monterey Jack cheese.\n8. Bake for 20-25 minutes, or until cheese is melted and bubbly." ,
+
+      "recipeimg3" : "https://plus.unsplash.com/premium_photo-1681406994499-737a170e9c43?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fG1leGljYW4lMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "name3": "Carne Asada",
+      "description3": "Thinly sliced grilled steak, often served with tortillas and guacamole.",
+      "ingredients3": "flank steak (2 lbs.), lime juice (1/4 cup), orange juice (1/4 cup), garlic (4 cloves, minced), cumin (1 tbsp.), chili powder (1 tbsp.), salt (to taste), pepper (to taste), vegetable oil (2 tbsp.)",
+      "instructions3": "1. In a large bowl, whisk together lime juice, orange juice, garlic, cumin, chili powder, salt, pepper, and vegetable oil.\n2. Add flank steak to the bowl and coat evenly with the marinade. Cover and refrigerate for at least 1 hour, or up to 24 hours.\n3. Preheat grill to high heat. Remove steak from marinade and discard excess liquid.\n4. Grill steak for 6-8 minutes per side, or until desired doneness is reached.\n5. Let steak rest for 5-10 minutes before slicing thinly against the grain."
     
     
   },
@@ -52,10 +93,23 @@
     "numberOfRecipes": 75,
     "likes": 500,
     
-      "name": "Carne Asada",
-      "description": "Thinly sliced grilled steak, often served with tortillas and guacamole.",
-      "ingredients": "flank steak (2 lbs.), lime juice (1/4 cup), orange juice (1/4 cup), garlic (4 cloves, minced), cumin (1 tbsp.), chili powder (1 tbsp.), salt (to taste), pepper (to taste), vegetable oil (2 tbsp.)",
-      "instructions": "1. In a large bowl, whisk together lime juice, orange juice, garlic, cumin, chili powder, salt, pepper, and vegetable oil.\n2. Add flank steak to the bowl and coat evenly with the marinade. Cover and refrigerate for at least 1 hour, or up to 24 hours.\n3. Preheat grill to high heat. Remove steak from marinade and discard excess liquid.\n4. Grill steak for 6-8 minutes per side, or until desired doneness is reached.\n5. Let steak rest for 5-10 minutes before slicing thinly against the grain."
+    "recipeimg1" : "https://images.unsplash.com/photo-1582234372722-50d7ccc30ebd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fG1leGljYW4lMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "name1": "Carne Asada",
+      "description1": "Thinly sliced grilled steak, often served with tortillas and guacamole.",
+      "ingredients1": "flank steak (2 lbs.), lime juice (1/4 cup), orange juice (1/4 cup), garlic (4 cloves, minced), cumin (1 tbsp.), chili powder (1 tbsp.), salt (to taste), pepper (to taste), vegetable oil (2 tbsp.)",
+      "instructions1": "1. In a large bowl, whisk together lime juice, orange juice, garlic, cumin, chili powder, salt, pepper, and vegetable oil.\n2. Add flank steak to the bowl and coat evenly with the marinade. Cover and refrigerate for at least 1 hour, or up to 24 hours.\n3. Preheat grill to high heat. Remove steak from marinade and discard excess liquid.\n4. Grill steak for 6-8 minutes per side, or until desired doneness is reached.\n5. Let steak rest for 5-10 minutes before slicing thinly against the grain.",
+
+      "recipeimg2" : "https://plus.unsplash.com/premium_photo-1681406994499-737a170e9c43?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fG1leGljYW4lMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "name2": "Enchiladas Suizas",
+      "description2": "Tortillas filled with shredded chicken, topped with a creamy tomatillo sauce and melted cheese.",
+      "ingredients2": "corn tortillas (12), shredded cooked chicken (2 cups), chopped onion (1 cup), shredded cheese (1 cup), sour cream (1/2 cup), milk (1/2 cup), chopped cilantro (1/2 cup), green enchilada sauce (1 can (10 oz.)), olive oil (1 tbsp.), salt (to taste), pepper (to taste)",
+      "instructions2": "1. Preheat oven to 350°F (175°C).\n2. Heat olive oil in a skillet over medium heat. Add onion and sauté until softened, about 5 minutes.\n3. Add shredded chicken, salt, and pepper to taste. Cook for 5 minutes, or until heated through.\n4. In a medium bowl, mix together sour cream, milk, and green enchilada sauce.\n5. Dip each tortilla in the sauce to coat both sides. Spoon chicken mixture onto the center of each tortilla and roll up tightly. Place seam-side down in a greased baking dish.\n6. Pour remaining sauce over enchiladas and sprinkle with shredded cheese.\n7. Bake for 20-25 minutes, or until cheese is melted and bubbly. Garnish with chopped cilantro before serving." ,
+
+      "recipeimg3" : "https://images.unsplash.com/photo-1582169296194-e4d644c48063?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWV4aWNhbiUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "name3": "Pozole",
+      "description3": "A traditional Mexican soup made with hominy, pork, and a variety of toppings.",
+      "ingredients3": "dried hominy (2 cups), pork shoulder (2 lbs.), onion (1, chopped), garlic (4 cloves, minced), cumin (1 tbsp.), chili powder (1 tbsp.), bay leaves (2), salt (to taste), pepper (to taste), cabbage (2 cups, shredded), radishes (1 cup, sliced), cilantro (1/2 cup, chopped), lime wedges (for serving)",
+      "instructions3": "1. Rinse hominy and soak overnight in a large pot of water.\n2. Drain hominy and return to pot with pork shoulder, onion, garlic, cumin, chili powder, bay leaves, salt, and pepper.\n3. Add enough water to cover the ingredients by 2-3 inches. Bring to a boil, then reduce heat and simmer for 2-3 hours, or until pork is tender and hominy is fully cooked.\n4. Remove pork from pot and shred into bite-sized pieces.\n5. To serve, ladle soup into bowls and top with shredded pork, cabbage, radishes, cilantro, and a squeeze of lime juice."
     
     
   },
@@ -66,11 +120,24 @@
     "yearsOfExperience": 20,
     "numberOfRecipes": 120,
     "likes": 3000,
-    
-      "name": "Tamales",
-      "description": "A traditional Mexican dish made of masa dough, filled with various ingredients, and steamed in a corn husk.",
-      "ingredients": "dried corn husks (20-30), masa harina (4 cups), lard (1 cup), chicken broth (3 cups), baking powder (1 tbsp.), salt (1 tbsp.), cooked shredded pork or chicken (2 cups), salsa (1 cup)",
-      "instructions": "1. Soak dried corn husks in warm water for 30 minutes to soften.\n2. In a large mixing bowl, beat lard with an electric mixer until light and fluffy.\n3. In a separate bowl, whisk together masa harina, baking powder, and salt. Gradually add chicken broth to the mixture, stirring until well-combined.\n4. Add the masa mixture to the bowl with the lard and beat until light and fluffy.\n5. Spread a spoonful of masa dough onto a softened corn husk, leaving a 1-inch border around the edges.\n6. Add a spoonful of shredded pork or chicken and a spoonful of salsa on top of the masa dough.\n7. Roll up the corn husk to enclose the filling and tie the ends with kitchen twine.\n8. Repeat with remaining corn husks and filling.\n9. Place the tamales in a steamer basket and steam for 1 hour, or until the masa dough is firm and the filling is heated through."
+
+    "recipeimg1" : "https://plus.unsplash.com/premium_photo-1681406994499-737a170e9c43?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fG1leGljYW4lMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "name1": "Tamales",
+      "description1": "A traditional Mexican dish made of masa dough, filled with various ingredients, and steamed in a corn husk.",
+      "ingredients1": "dried corn husks (20-30), masa harina (4 cups), lard (1 cup), chicken broth (3 cups), baking powder (1 tbsp.), salt (1 tbsp.), cooked shredded pork or chicken (2 cups), salsa (1 cup)",
+      "instructions1": "1. Soak dried corn husks in warm water for 30 minutes to soften.\n2. In a large mixing bowl, beat lard with an electric mixer until light and fluffy.\n3. In a separate bowl, whisk together masa harina, baking powder, and salt. Gradually add chicken broth to the mixture, stirring until well-combined.\n4. Add the masa mixture to the bowl with the lard and beat until light and fluffy.\n5. Spread a spoonful of masa dough onto a softened corn husk, leaving a 1-inch border around the edges.\n6. Add a spoonful of shredded pork or chicken and a spoonful of salsa on top of the masa dough.\n7. Roll up the corn husk to enclose the filling and tie the ends with kitchen twine.\n8. Repeat with remaining corn husks and filling.\n9. Place the tamales in a steamer basket and steam for 1 hour, or until the masa dough is firm and the filling is heated through.",
+      
+      "recipeimg2" : "https://images.unsplash.com/photo-1582234372722-50d7ccc30ebd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fG1leGljYW4lMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "name2": "Enchiladas Suizas",
+      "description2": "Tortillas filled with shredded chicken, topped with a creamy tomatillo sauce and melted cheese.",
+      "ingredients2": "corn tortillas (12), shredded cooked chicken (2 cups), chopped onion (1 cup), shredded cheese (1 cup), sour cream (1/2 cup), milk (1/2 cup), chopped cilantro (1/2 cup), green enchilada sauce (1 can (10 oz.)), olive oil (1 tbsp.), salt (to taste), pepper (to taste)",
+      "instructions2": "1. Preheat oven to 350°F (175°C).\n2. Heat olive oil in a skillet over medium heat. Add onion and sauté until softened, about 5 minutes.\n3. Add shredded chicken, salt, and pepper to taste. Cook for 5 minutes, or until heated through.\n4. In a medium bowl, mix together sour cream, milk, and green enchilada sauce.\n5. Dip each tortilla in the sauce to coat both sides. Spoon chicken mixture onto the center of each tortilla and roll up tightly. Place seam-side down in a greased baking dish.\n6. Pour remaining sauce over enchiladas and sprinkle with shredded cheese.\n7. Bake for 20-25 minutes, or until cheese is melted and bubbly. Garnish with chopped cilantro before serving.",
+
+      "recipeimg3" : "https://images.unsplash.com/photo-1582169296194-e4d644c48063?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWV4aWNhbiUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "name3": "Pozole",
+      "description3": "A traditional Mexican soup made with hominy, pork, and a variety of toppings.",
+      "ingredients3": "dried hominy (2 cups), pork shoulder (2 lbs.), onion (1, chopped), garlic (4 cloves, minced), cumin (1 tbsp.), chili powder (1 tbsp.), bay leaves (2), salt (to taste), pepper (to taste), cabbage (2 cups, shredded), radishes (1 cup, sliced), cilantro (1/2 cup, chopped), lime wedges (for serving)",
+      "instructions3": "1. Rinse hominy and soak overnight in a large pot of water.\n2. Drain hominy and return to pot with pork shoulder, onion, garlic, cumin, chili powder, bay leaves, salt, and pepper.\n3. Add enough water to cover the ingredients by 2-3 inches. Bring to a boil, then reduce heat and simmer for 2-3 hours, or until pork is tender and hominy is fully cooked.\n4. Remove pork from pot and shred into bite-sized pieces.\n5. To serve, ladle soup into bowls and top with shredded pork, cabbage, radishes, cilantro, and a squeeze of lime juice."
     
     
   },
@@ -81,11 +148,24 @@
     "yearsOfExperience": 5,
     "numberOfRecipes": 30,
     "likes": 200,
-    
-      "name": "Enchiladas Verdes",
-      "description": "Corn tortillas filled with shredded chicken, covered in a green chili sauce, and topped with cheese and crema.",
-      "ingredients": "corn tortillas (12), cooked shredded chicken (2 cups), onion (1, chopped), garlic (2 cloves, minced), green chilies (4 oz. can, chopped), chicken broth (1 cup), sour cream (1/2 cup), cilantro (1/2 cup, chopped), Monterey Jack cheese (1 cup, shredded), vegetable oil (for frying)",
-      "instructions": "1. Preheat oven to 350°F (175°C).\n2. In a large skillet, heat vegetable oil over medium-high heat. Fry corn tortillas one at a time for about 10 seconds on each side, until slightly crisp. Drain on paper towels.\n3. In the same skillet, sauté onion and garlic until soft.\n4. Add green chilies and chicken broth to the skillet. Simmer for 10 minutes, then stir in sour cream and cilantro.\n5. Spread a spoonful of the green chili sauce on each corn tortilla, then add a spoonful of shredded chicken.\n6. Roll up the tortillas and place seam-side down in a baking dish.\n7. Pour remaining green chili sauce over the enchiladas and sprinkle with shredded Monterey Jack cheese.\n8. Bake for 20-25 minutes, or until cheese is melted and bubbly."
+
+      "recipeimg1" : "https://plus.unsplash.com/premium_photo-1681406994499-737a170e9c43?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fG1leGljYW4lMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "name1": "Enchiladas Verdes",
+      "description1": "Corn tortillas filled with shredded chicken, covered in a green chili sauce, and topped with cheese and crema.",
+      "ingredients1": "corn tortillas (12), cooked shredded chicken (2 cups), onion (1, chopped), garlic (2 cloves, minced), green chilies (4 oz. can, chopped), chicken broth (1 cup), sour cream (1/2 cup), cilantro (1/2 cup, chopped), Monterey Jack cheese (1 cup, shredded), vegetable oil (for frying)",
+      "instructions1": "1. Preheat oven to 350°F (175°C).\n2. In a large skillet, heat vegetable oil over medium-high heat. Fry corn tortillas one at a time for about 10 seconds on each side, until slightly crisp. Drain on paper towels.\n3. In the same skillet, sauté onion and garlic until soft.\n4. Add green chilies and chicken broth to the skillet. Simmer for 10 minutes, then stir in sour cream and cilantro.\n5. Spread a spoonful of the green chili sauce on each corn tortilla, then add a spoonful of shredded chicken.\n6. Roll up the tortillas and place seam-side down in a baking dish.\n7. Pour remaining green chili sauce over the enchiladas and sprinkle with shredded Monterey Jack cheese.\n8. Bake for 20-25 minutes, or until cheese is melted and bubbly.",
+      
+      "recipeimg2" : "https://images.unsplash.com/photo-1582234372722-50d7ccc30ebd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fG1leGljYW4lMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "name2": "Enchiladas Suizas",
+      "description2": "Tortillas filled with shredded chicken, topped with a creamy tomatillo sauce and melted cheese.",
+      "ingredients2": "corn tortillas (12), shredded cooked chicken (2 cups), chopped onion (1 cup), shredded cheese (1 cup), sour cream (1/2 cup), milk (1/2 cup), chopped cilantro (1/2 cup), green enchilada sauce (1 can (10 oz.)), olive oil (1 tbsp.), salt (to taste), pepper (to taste)",
+      "instructions2": "1. Preheat oven to 350°F (175°C).\n2. Heat olive oil in a skillet over medium heat. Add onion and sauté until softened, about 5 minutes.\n3. Add shredded chicken, salt, and pepper to taste. Cook for 5 minutes, or until heated through.\n4. In a medium bowl, mix together sour cream, milk, and green enchilada sauce.\n5. Dip each tortilla in the sauce to coat both sides. Spoon chicken mixture onto the center of each tortilla and roll up tightly. Place seam-side down in a greased baking dish.\n6. Pour remaining sauce over enchiladas and sprinkle with shredded cheese.\n7. Bake for 20-25 minutes, or until cheese is melted and bubbly. Garnish with chopped cilantro before serving.",
+
+      "recipeimg3" : "https://images.unsplash.com/photo-1582169296194-e4d644c48063?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWV4aWNhbiUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "name3": "Pozole",
+      "description3": "A traditional Mexican soup made with hominy, pork, and a variety of toppings.",
+      "ingredients3": "dried hominy (2 cups), pork shoulder (2 lbs.), onion (1, chopped), garlic (4 cloves, minced), cumin (1 tbsp.), chili powder (1 tbsp.), bay leaves (2), salt (to taste), pepper (to taste), cabbage (2 cups, shredded), radishes (1 cup, sliced), cilantro (1/2 cup, chopped), lime wedges (for serving)",
+      "instructions3": "1. Rinse hominy and soak overnight in a large pot of water.\n2. Drain hominy and return to pot with pork shoulder, onion, garlic, cumin, chili powder, bay leaves, salt, and pepper.\n3. Add enough water to cover the ingredients by 2-3 inches. Bring to a boil, then reduce heat and simmer for 2-3 hours, or until pork is tender and hominy is fully cooked.\n4. Remove pork from pot and shred into bite-sized pieces.\n5. To serve, ladle soup into bowls and top with shredded pork, cabbage, radishes, cilantro, and a squeeze of lime juice."
     
     
   }
