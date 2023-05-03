@@ -50,7 +50,14 @@
     "chefName": "Jorge Perez",
     "yearsOfExperience": 10,
     "numberOfRecipes": 75,
-    "likes": 500
+    "likes": 500,
+    
+      "name": "Carne Asada",
+      "description": "Thinly sliced grilled steak, often served with tortillas and guacamole.",
+      "ingredients": "flank steak (2 lbs.), lime juice (1/4 cup), orange juice (1/4 cup), garlic (4 cloves, minced), cumin (1 tbsp.), chili powder (1 tbsp.), salt (to taste), pepper (to taste), vegetable oil (2 tbsp.)",
+      "instructions": "1. In a large bowl, whisk together lime juice, orange juice, garlic, cumin, chili powder, salt, pepper, and vegetable oil.\n2. Add flank steak to the bowl and coat evenly with the marinade. Cover and refrigerate for at least 1 hour, or up to 24 hours.\n3. Preheat grill to high heat. Remove steak from marinade and discard excess liquid.\n4. Grill steak for 6-8 minutes per side, or until desired doneness is reached.\n5. Let steak rest for 5-10 minutes before slicing thinly against the grain."
+    
+    
   },
   {
     "id": 5,
@@ -58,7 +65,14 @@
     "chefName": "Ana Lopez",
     "yearsOfExperience": 20,
     "numberOfRecipes": 120,
-    "likes": 3000
+    "likes": 3000,
+    
+      "name": "Tamales",
+      "description": "A traditional Mexican dish made of masa dough, filled with various ingredients, and steamed in a corn husk.",
+      "ingredients": "dried corn husks (20-30), masa harina (4 cups), lard (1 cup), chicken broth (3 cups), baking powder (1 tbsp.), salt (1 tbsp.), cooked shredded pork or chicken (2 cups), salsa (1 cup)",
+      "instructions": "1. Soak dried corn husks in warm water for 30 minutes to soften.\n2. In a large mixing bowl, beat lard with an electric mixer until light and fluffy.\n3. In a separate bowl, whisk together masa harina, baking powder, and salt. Gradually add chicken broth to the mixture, stirring until well-combined.\n4. Add the masa mixture to the bowl with the lard and beat until light and fluffy.\n5. Spread a spoonful of masa dough onto a softened corn husk, leaving a 1-inch border around the edges.\n6. Add a spoonful of shredded pork or chicken and a spoonful of salsa on top of the masa dough.\n7. Roll up the corn husk to enclose the filling and tie the ends with kitchen twine.\n8. Repeat with remaining corn husks and filling.\n9. Place the tamales in a steamer basket and steam for 1 hour, or until the masa dough is firm and the filling is heated through."
+    
+    
   },
   {
     "id": 6,
@@ -66,6 +80,13 @@
     "chefName": "Jose Garcia",
     "yearsOfExperience": 5,
     "numberOfRecipes": 30,
-    "likes": 200
+    "likes": 200,
+    
+      "name": "Enchiladas Verdes",
+      "description": "Corn tortillas filled with shredded chicken, covered in a green chili sauce, and topped with cheese and crema.",
+      "ingredients": "corn tortillas (12), cooked shredded chicken (2 cups), onion (1, chopped), garlic (2 cloves, minced), green chilies (4 oz. can, chopped), chicken broth (1 cup), sour cream (1/2 cup), cilantro (1/2 cup, chopped), Monterey Jack cheese (1 cup, shredded), vegetable oil (for frying)",
+      "instructions": "1. Preheat oven to 350°F (175°C).\n2. In a large skillet, heat vegetable oil over medium-high heat. Fry corn tortillas one at a time for about 10 seconds on each side, until slightly crisp. Drain on paper towels.\n3. In the same skillet, sauté onion and garlic until soft.\n4. Add green chilies and chicken broth to the skillet. Simmer for 10 minutes, then stir in sour cream and cilantro.\n5. Spread a spoonful of the green chili sauce on each corn tortilla, then add a spoonful of shredded chicken.\n6. Roll up the tortillas and place seam-side down in a baking dish.\n7. Pour remaining green chili sauce over the enchiladas and sprinkle with shredded Monterey Jack cheese.\n8. Bake for 20-25 minutes, or until cheese is melted and bubbly."
+    
+    
   }
 ]
