@@ -6,29 +6,11 @@
     "yearsOfExperience": 15,
     "numberOfRecipes": 100,
     "likes": 2000,
-
-      "name": "Tacos al Pastor",
-      "description": "Marinated pork cooked on a vertical spit, sliced and served on tortillas with pineapple and onion.",
-      "ingredients": [
-        "2 lbs. pork shoulder, sliced thin",
-        "1/2 cup achiote paste",
-        "2 tbsp. pineapple juice",
-        "2 tbsp. white vinegar",
-        "1 tbsp. dried oregano",
-        "1 tbsp. ground cumin",
-        "1 tbsp. smoked paprika",
-        "1 tbsp. garlic powder",
-        "1 tbsp. salt",
-        "1/2 cup diced pineapple",
-        "1/2 cup diced white onion",
-        "16 corn tortillas"
-      ],
-      "instructions": [
-        "Combine achiote paste, pineapple juice, vinegar, oregano, cumin, smoked paprika, garlic powder, and salt in a bowl.",
-        "Add sliced pork and marinate for at least 2 hours or overnight.",
-        "Thread marinated pork onto a vertical spit and cook until browned and crispy.",
-        "Slice cooked pork into small pieces and serve on tortillas with diced pineapple and onion."
-      ]
+    
+      "name": "Enchiladas Suizas",
+      "description": "Tortillas filled with shredded chicken, topped with a creamy tomatillo sauce and melted cheese.",
+      "ingredients": "corn tortillas (12), shredded cooked chicken (2 cups), chopped onion (1 cup), shredded cheese (1 cup), sour cream (1/2 cup), milk (1/2 cup), chopped cilantro (1/2 cup), green enchilada sauce (1 can (10 oz.)), olive oil (1 tbsp.), salt (to taste), pepper (to taste)",
+      "instructions": "1. Preheat oven to 350°F (175°C).\n2. Heat olive oil in a skillet over medium heat. Add onion and sauté until softened, about 5 minutes.\n3. Add shredded chicken, salt, and pepper to taste. Cook for 5 minutes, or until heated through.\n4. In a medium bowl, mix together sour cream, milk, and green enchilada sauce.\n5. Dip each tortilla in the sauce to coat both sides. Spoon chicken mixture onto the center of each tortilla and roll up tightly. Place seam-side down in a greased baking dish.\n6. Pour remaining sauce over enchiladas and sprinkle with shredded cheese.\n7. Bake for 20-25 minutes, or until cheese is melted and bubbly. Garnish with chopped cilantro before serving."
     
     
   },
@@ -40,27 +22,11 @@
     "numberOfRecipes": 80,
     "likes": 1500,
 
-      "name": "Enchiladas Verdes",
-      "description": "Rolled tortillas filled with chicken, covered in green salsa and topped with cheese.",
-      "ingredients": [
-        "12 corn tortillas",
-        "2 cups shredded chicken",
-        "2 cups salsa verde",
-        "1/2 cup sour cream",
-        "1/2 cup crumbled queso fresco",
-        "2 tbsp. chopped fresh cilantro",
-        "Salt and pepper, to taste"
-      ],
-      "instructions": [
-        "Preheat oven to 350°F.",
-        "Warm tortillas in the oven or microwave until soft.",
-        "In a bowl, mix shredded chicken with 1 cup of salsa verde.",
-        "Spoon chicken mixture onto each tortilla and roll up.",
-        "Place rolled tortillas in a baking dish, seam side down.",
-        "Pour remaining salsa verde over the tortillas and sprinkle with cheese.",
-        "Bake for 20 minutes or until cheese is melted and bubbly.",
-        "Garnish with sour cream, cilantro, salt and pepper before serving."
-      ]
+      "name": "Tacos al Pastor",
+      "description": "Thinly sliced pork marinated in a blend of spices, cooked on a vertical spit, and served in soft corn tortillas with pineapple and onion.",
+      "ingredients": "pork shoulder (1 lb.), fresh pineapple (1 cup, diced), onion (1/2 cup, diced), garlic (2 cloves, minced), chili powder (1 tbsp.), cumin (1 tbsp.), paprika (1 tbsp.), oregano (1 tbsp.), salt (to taste), pepper (to taste), corn tortillas (8-10)",
+      "instructions": "1. In a large bowl, mix together pineapple, onion, garlic, chili powder, cumin, paprika, oregano, salt, and pepper.\n2. Add pork shoulder to the bowl and mix until well-coated. Cover and marinate in the refrigerator for at least 1 hour.\n3. Preheat oven to 350°F (175°C). Transfer pork mixture to a baking dish and roast for 1 hour, or until cooked through.\n4. Let pork cool slightly, then slice thinly.\n5. Heat tortillas on a griddle or in the microwave.\n6. Serve pork slices on warm tortillas, topped with additional diced pineapple and onion if desired."
+    
     
   },
   {
@@ -69,7 +35,14 @@
     "chefName": "Isabel Rodriguez",
     "yearsOfExperience": 8,
     "numberOfRecipes": 50,
-    "likes": 1000
+    "likes": 1000,
+    
+      "name": "Pozole",
+      "description": "A traditional Mexican soup made with hominy, pork, and a variety of toppings.",
+      "ingredients": "dried hominy (2 cups), pork shoulder (2 lbs.), onion (1, chopped), garlic (4 cloves, minced), cumin (1 tbsp.), chili powder (1 tbsp.), bay leaves (2), salt (to taste), pepper (to taste), cabbage (2 cups, shredded), radishes (1 cup, sliced), cilantro (1/2 cup, chopped), lime wedges (for serving)",
+      "instructions": "1. Rinse hominy and soak overnight in a large pot of water.\n2. Drain hominy and return to pot with pork shoulder, onion, garlic, cumin, chili powder, bay leaves, salt, and pepper.\n3. Add enough water to cover the ingredients by 2-3 inches. Bring to a boil, then reduce heat and simmer for 2-3 hours, or until pork is tender and hominy is fully cooked.\n4. Remove pork from pot and shred into bite-sized pieces.\n5. To serve, ladle soup into bowls and top with shredded pork, cabbage, radishes, cilantro, and a squeeze of lime juice."
+    
+    
   },
   {
     "id": 4,
