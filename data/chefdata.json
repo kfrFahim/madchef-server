@@ -5,7 +5,32 @@
     "chefName": "Maria Hernandez",
     "yearsOfExperience": 15,
     "numberOfRecipes": 100,
-    "likes": 2000
+    "likes": 2000,
+
+      "name": "Tacos al Pastor",
+      "description": "Marinated pork cooked on a vertical spit, sliced and served on tortillas with pineapple and onion.",
+      "ingredients": [
+        "2 lbs. pork shoulder, sliced thin",
+        "1/2 cup achiote paste",
+        "2 tbsp. pineapple juice",
+        "2 tbsp. white vinegar",
+        "1 tbsp. dried oregano",
+        "1 tbsp. ground cumin",
+        "1 tbsp. smoked paprika",
+        "1 tbsp. garlic powder",
+        "1 tbsp. salt",
+        "1/2 cup diced pineapple",
+        "1/2 cup diced white onion",
+        "16 corn tortillas"
+      ],
+      "instructions": [
+        "Combine achiote paste, pineapple juice, vinegar, oregano, cumin, smoked paprika, garlic powder, and salt in a bowl.",
+        "Add sliced pork and marinate for at least 2 hours or overnight.",
+        "Thread marinated pork onto a vertical spit and cook until browned and crispy.",
+        "Slice cooked pork into small pieces and serve on tortillas with diced pineapple and onion."
+      ]
+    
+    
   },
   {
     "id": 2,
@@ -13,7 +38,30 @@
     "chefName": "Carlos Gonzalez",
     "yearsOfExperience": 12,
     "numberOfRecipes": 80,
-    "likes": 1500
+    "likes": 1500,
+
+      "name": "Enchiladas Verdes",
+      "description": "Rolled tortillas filled with chicken, covered in green salsa and topped with cheese.",
+      "ingredients": [
+        "12 corn tortillas",
+        "2 cups shredded chicken",
+        "2 cups salsa verde",
+        "1/2 cup sour cream",
+        "1/2 cup crumbled queso fresco",
+        "2 tbsp. chopped fresh cilantro",
+        "Salt and pepper, to taste"
+      ],
+      "instructions": [
+        "Preheat oven to 350°F.",
+        "Warm tortillas in the oven or microwave until soft.",
+        "In a bowl, mix shredded chicken with 1 cup of salsa verde.",
+        "Spoon chicken mixture onto each tortilla and roll up.",
+        "Place rolled tortillas in a baking dish, seam side down.",
+        "Pour remaining salsa verde over the tortillas and sprinkle with cheese.",
+        "Bake for 20 minutes or until cheese is melted and bubbly.",
+        "Garnish with sour cream, cilantro, salt and pepper before serving."
+      ]
+    
   },
   {
     "id": 3,
